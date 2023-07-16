@@ -678,12 +678,12 @@ ul {
   color: var(--subtle-text-color);
   display: block;
   margin-bottom: 4px;
-  /* display: flex;
+}
+/* display: flex;
   flex-direction: column;
   gap: 4px;
   margin-bottom: 8px;
   position: relative; */
-}
 .input-svg-box {
   position: relative;
 }
@@ -723,10 +723,10 @@ ul {
   color: var(--subtle-text-color);
   display: block;
   margin-bottom: 4px;
-  /* display: flex;
+}
+/* display: flex;
   flex-direction: column;
   margin-bottom: 16px; */
-}
 .modal-input-comment {
   height: 120px;
   width: 100%;
@@ -752,8 +752,6 @@ ul {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  display: block;
-  margin-bottom: 4px;
 }
 .form-field-checkbox {
   margin-bottom: 24px;
