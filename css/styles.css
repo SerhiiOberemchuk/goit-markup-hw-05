@@ -774,7 +774,7 @@ ul {
   font-style: normal;
   font-weight: 500;
   line-height: 1.5; /* 150% */
-  letter-spacing: 0.04;
+  letter-spacing: 0.04em;
   display: block;
   cursor: pointer;
   transition-property: background-color;
